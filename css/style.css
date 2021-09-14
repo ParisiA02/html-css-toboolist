@@ -60,6 +60,7 @@ hr{
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 40px;
+    color: rgb(77, 72, 81);
 }
 .note{
     display: inline-block;
@@ -88,4 +89,15 @@ hr{
 }
 .sales{
     background-color: rgb(163, 209, 22);
+}
+.circle{
+    border-radius: 50%;
+    border: 1px solid;
+    padding: 3px;
+}
+.check{
+    color: rgb(59, 202, 176);
+}
+.cross{
+    color: rgb(255, 16, 16);
 }
