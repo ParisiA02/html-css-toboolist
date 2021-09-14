@@ -56,16 +56,36 @@ hr{
     margin-top: 40px;
     margin-left: 60px;
 }
-.newtask{
+.text{
     font-size: 20px;
     font-weight: bold;
+    margin-bottom: 40px;
+}
+.note{
     display: inline-block;
+    margin-top: 20px;
 }
-.editorial{
-    color: white;
-    background-color: #47ADF1;
+.cell{
     border-radius: 20px;
-    padding: 5px;
+    padding: 6px 12px;
     font-size: 10px;
+    color: white;
 }
-
+.editorial{   
+    background-color: #47ADF1;
+}
+.goals{
+    background-color: rgb(171, 93, 230);
+}
+.recruiting{
+    background-color: rgb(44, 198, 171);
+}
+.mobile{
+    background-color: rgb(255, 155, 0);
+}
+.website{
+    background-color: rgb(236, 74, 157);
+}
+.sales{
+    background-color: rgb(163, 209, 22);
+}
